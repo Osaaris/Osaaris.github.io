@@ -1,0 +1,46 @@
+body {
+    background-color: black;
+}
+
+p {
+    color: #13A10E;
+    text-align: center;
+}
+
+.header {
+    color: #FFFFFF;
+    padding: 30px;
+    text-align: center;
+}
+
+
+.topnavbar {
+    color: white;
+}
+
+ul {
+    background-color: #333333;
+    list-style-type: none;
+    margin: 0;
+    overflow: hidden;
+    padding: 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    color: white;
+    display: block;
+    padding: 14px 16px;    
+    text-align: center;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #13A10E;
+}
