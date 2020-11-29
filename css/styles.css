@@ -1,31 +1,27 @@
 body {
-    background-color: black;
+    background-color: white;
 }
 
 p {
-    color: #13A10E;
+    /*color: #13A10E;*/
+    color: black;
     text-align: center;
+font-family: 'Courier New', Courier, monospace;
 }
 
 .header {
-    color: #FFFFFF;
+    color: black;
     padding: 30px;
     text-align: center;
 }
 
-
-.topnavbar {
-    color: white;
-}
-
-ul {
+.topnavlinks {
     background-color: #333333;
     list-style-type: none;
-    margin: 0;
-    overflow: hidden;
-    padding: 0;
+    margin: 0px;
+    padding: 0px;
     position: fixed;
-    top: 0;
+    top: 0px;
     width: 100%;
 }
 
@@ -43,4 +39,18 @@ li a {
 
 li a:hover {
     background-color: #13A10E;
+}
+
+.pfooter {
+    color: white;
+    font-size: 12px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.footer {
+    background-color: #333333;
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    width: auto;
 }
