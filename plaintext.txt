@@ -1,0 +1,52 @@
+// Home
+
+// Person
+
+Koulutustaustani
+
+Olen ylioppilas ja valmistuin lukiosta vuonna 2014.
+Aloitin tieto- ja viestintätekniikan opiskelun vuonna 2016
+ja valmistuin helmikuussa 2020 (laajuus 240 op).
+
+Kuten elämällä on tapana, kaikki ei mene aina suunnitellusti.
+Valmistuin noin puolivuotta etuajassa ja olin menossa työelämään.
+Tai noh, niin olin suunnitellut.
+Sitten tuli mediaähkyn aiheuttanut ḱ̵͉o̵͓̜̅̀r̵̹̍o̷̬̒͘n̴̡̮̂a̸͙͌v̵̪͕̔i̷̪͒̄r̷͙͚̆u̶͓̝̎s̵͍͝ ja mullisti maailmaa sekä vei monelta työt samalla.
+
+En halunnut jäädä tyhjän päälle istumaan, joten päätin hakea jatkokoulutusta
+alani opintoihin liittyen ja päädyin opiskelemaan Full Stackia.
+Vaikka olen työuraseikkailuni alkutaipaleilla, olen nyt jo oppinut valtavasti
+uusia asioita koodaamisesta ja tekniikoista Full Stackia opiskellessa.
+
+
+// Portfolio
+
+// CV
+KOULUTUS
+
+Turun ammattikorkeakoulu
+2016-2020
+Tieto- ja viestintätekniikan koulutus, insinööri, 240 op
+
+Turun normaalikoulu
+2011-2014
+Ylioppilas
+
+TYÖKOKEMUS
+
+Turun yliopistollinen keskussairaala (Tyks)
+
+Suunnittelija
+
+Potilastietojärjestelmän peruskäyttökouluttaminen hoitohenkilökunnalle ja lääkäreille.
+Potilasprosessien piirtäminen, tiedonhakutehtävät sähköisten palveluiden suunnitteluun liittyen.
+
+
+
+
+// 404.html
+Portfolio says 404, page not found
+Maybe the page is under construction, maybe it's removed or maybe the browser is lost...
+What ever the case is, remember that the truth is out there.
+
+https://osaaris.github.io/ Take me back to home page

@@ -1,12 +1,13 @@
 body {
-    background-color: white;
+    background-color: lightskyblue;
 }
 
 p {
-    /*color: #13A10E;*/
-    color: black;
+    background-color: black;
+    color: #13A10E;
     text-align: center;
-    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+    line-height: 1.5;
 }
 
 .header {
@@ -41,6 +42,41 @@ li a:hover {
     background-color: #13A10E;
 }
 
+.self-portrait {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px;
+    border-radius: 180px;
+}
+
+h2, h3 {
+    text-align: center;
+}
+
+.paragHome {
+    background-color: whitesmoke;
+    color: black;
+    text-align: center;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.paragPerson {
+    /*color: #13A10E;*/
+    background-color: whitesmoke;
+    color: black;
+    text-align: center;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.cvTable {
+    background-color: whitesmoke;
+    width: 100%;
+    line-height: 1.5;
+}
+
 .pfooter {
     color: white;
     font-size: 12px;
@@ -53,12 +89,5 @@ li a:hover {
     justify-content: center;
     padding: 5px;
     width: auto;
-}
-
-.center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 150px;
-    border-radius: 180px;
+    line-height: 1.5;
 }
