@@ -6,12 +6,12 @@ Koulutustaustani
 
 Olen ylioppilas ja valmistuin lukiosta vuonna 2014.
 Aloitin tieto- ja viestintätekniikan opiskelun vuonna 2016
-ja valmistuin helmikuussa 2020 (laajuus 240 op).
+ja valmistuin insinööriksi helmikuussa 2020 (laajuus 240 op).
 
 Kuten elämällä on tapana, kaikki ei mene aina suunnitellusti.
 Valmistuin noin puolivuotta etuajassa ja olin menossa työelämään.
 Tai noh, niin olin suunnitellut.
-Sitten tuli mediaähkyn aiheuttanut ḱ̵͉o̵͓̜̅̀r̵̹̍o̷̬̒͘n̴̡̮̂a̸͙͌v̵̪͕̔i̷̪͒̄r̷͙͚̆u̶͓̝̎s̵͍͝ ja mullisti maailmaa sekä vei monelta työt samalla.
+Sitten tuli pademia ja mullisti maailmaa sekä vei monelta työt samalla.
 
 En halunnut jäädä tyhjän päälle istumaan, joten päätin hakea jatkokoulutusta
 alani opintoihin liittyen ja päädyin opiskelemaan Full Stackia.
@@ -20,6 +20,66 @@ uusia asioita koodaamisesta ja tekniikoista Full Stackia opiskellessa.
 
 
 // Portfolio
+
+
+Kielet:
+Angular
+C#
+CSS
+Dart
+HTML
+JavaScript
+Node.js
+Python
+React
+Swift
+
+
+Databases:
+MongoDB
+MySQL
+PHP
+PostgreSQL
+XAMPP
+
+Ohjelmistot:
+Bitbucket
+GitHub
+Heroku
+Office 365
+(Word, Excel, PowerPoint, Outlook etc.)
+
+Atom
+Editra
+Insomnia
+Notepad++
+Visual Studio 2019
+Visual Studio Code
+
+Cisco Packet Tracer
+Cisco routers & switches
+
+Elements of AI (Aalto yliopisto)
+Full Stack (LUT yliopisto)
+Kesäyliopiston (Turku) kurssit Japani, Venäjä, Luovan kirjoittamisen työpaja
+
+Audacity
+Draw.io (tehnyt käyttöohjeet Tyksille)
+Gimp
+MediBang Paint Pro
+Unity
+WebSequenceDiagrams
+
+Apple:
+GarageBand
+iMovie
+Keynote
+Numbers
+Pages
+Xcode
+
+Linux:
+CLI
 
 // CV
 KOULUTUS

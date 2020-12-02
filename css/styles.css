@@ -1,13 +1,26 @@
 body {
-    background-color: lightskyblue;
+    background-image: url("../img/cool-background.png");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
-p {
+.html-404 {
+    color: black;
+    text-align: center;
+    background: none;
+    font-size: 20px;
+}
+
+/* p {
     background-color: black;
     color: #13A10E;
     text-align: center;
     font-size: 16px;
     line-height: 1.5;
+} */
+
+h2 {
+    background-color: whitesmoke;
 }
 
 .header {
@@ -16,18 +29,27 @@ p {
     text-align: center;
 }
 
-.topnavlinks {
+.top-ul-nav-links {
     background-color: #333333;
     list-style-type: none;
     margin: 0px;
     padding: 0px;
+    overflow: hidden;
     position: fixed;
     top: 0px;
     width: 100%;
 }
 
-li {
+.top-li-nav-links {
     float: left;
+}
+
+.exp-list {
+    background-color: whitesmoke;
+    color: black;
+    list-style: none;
+    display: table-cell;
+    width: auto;
 }
 
 li a {
@@ -41,6 +63,10 @@ li a {
 li a:hover {
     background-color: #13A10E;
 }
+
+/* .language {
+    text-align: right;
+} */
 
 .self-portrait {
     display: block;
