@@ -1,14 +1,5 @@
 body {
-    background-image: url("../img/cool-background.png");
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-.html-404 {
-    color: black;
-    text-align: center;
-    background: none;
-    font-size: 20px;
+    background: linear-gradient(-70deg, #313552 60%, #1f2235 60%);
 }
 
 /* p {
@@ -19,8 +10,9 @@ body {
     line-height: 1.5;
 } */
 
-h2 {
+h2, h3 {
     background-color: whitesmoke;
+    text-align: center;
 }
 
 .header {
@@ -72,12 +64,8 @@ li a:hover {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 150px;
+    width: 130px;
     border-radius: 180px;
-}
-
-h2, h3 {
-    text-align: center;
 }
 
 .paragHome {
